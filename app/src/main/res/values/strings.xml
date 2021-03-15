@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">reseauxSociaux</string>
+    <string name="str_auth">Authentification</string>
+    <string name="str_email">Courriel</string>
+    <string name="str_pwd">Mot de passe</string>
+    <string name="str_connect">Se connecter</string>
+    <string name="str_pwd_forget">Mot de passe oublié?</string>
+    <string name="str_create_account">S\'enregistrer</string>
+    <string name="str_title_acc">Créer un compte</string>
+    <string name="str_confimer_cour">Confirmer le courriel</string>
+    <string name="str_confimer_pwd">Confirmer le mot de passe</string>
+    <string name="str_inscrire">S\'incrire</string>
+    <string name="str_retour">Retour</string>
+    <string name="str_pwd_forgot">Mot de passe oublié</string>
+    <string name="msg_mail_temp">Enter n\'importe quelle adresse courriel pour avoir
+        \nle nouveau Mot de passe temporaire.</string>
+    <string name="str_pwd_tmp">Mot de passe temporaire</string>
+</resources>
